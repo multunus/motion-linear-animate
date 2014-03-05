@@ -1,7 +1,7 @@
 iOS (RubyMotion) Animation Library
 ============================
 
-This is a simple wrapper for iOS animations. Currently, only linear animations are supported. We promise to add much more fascination animations to this library, so please bear with us until then :)
+This is a simple wrapper for linear iOS animations. Currently, only simple animations are supported. We promise to add much more fascination animations to this library, so please bear with us until then :)
 
 ## Installation
 
