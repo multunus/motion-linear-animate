@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in motion-linear-animate.gemspec
-gemspec
+gem 'rake'
+# Add your dependencies here:
