@@ -1,4 +1,4 @@
-class LinearAnimator
+class MotionAnimator
   def linear_animate(view, to: final_point, duration: time_period, completion: completion_block)
     frame = view.frame
     frame.origin.x = final_point.x
