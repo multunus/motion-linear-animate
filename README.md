@@ -1,6 +1,8 @@
 iOS (RubyMotion) Animation Library
 ============================
 
+[![Code Climate](https://codeclimate.com/github/multunus/motion-linear-animate.png)](https://codeclimate.com/github/multunus/motion-linear-animate)
+
 This is a simple wrapper for linear iOS animations. Currently, only simple animations are supported. We promise to add much more fascination animations to this library, so please bear with us until then :)
 
 ## Installation
