@@ -5,7 +5,7 @@ iOS (RubyMotion) Animation Library
 
 This is a simple wrapper for linear iOS animations. Currently, only simple animations are supported. We promise to add much more fascination animations to this library, so please bear with us until then :)
 
-![Animated GIF of Sample Implementation](http://dl.dropboxusercontent.com/s/oknynvc18afv3sw/linear_animate_sample.gif)
+![Animated GIF of Sample Implementation](http://dl.dropboxusercontent.com/s/wvo4mcn74u06lj8/linear-animate-sample.gif)
 
 ## Installation
 
